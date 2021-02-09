@@ -212,3 +212,15 @@ button {
 .social-items:last-child {
   margin-right: 0px;
 }
+
+
+/*evenements*/
+
+.form-btn__block{
+  display: flex;
+  justify-content: center;
+}
+
+.event-img{
+  height: 100%;
+}
